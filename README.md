@@ -6,6 +6,10 @@
 
 ---
 
+## Planning
+
+https://fancy-argument-fe3.notion.site/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0?source=copy_link
+
 ## About Me
 
 I'm 16 and self-taught.  
