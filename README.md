@@ -1,6 +1,6 @@
 <!-- 👾 Banner Start -->
 <p align="center">
-  <img src="https://img.shields.io/badge/S-havl-000000?style=for-the-badge&logo=Roblox&logoColor=a27ae0&labelColor=000000&color=a27ae0" alt="S-havl hacker badge"/>
+  <img src="https://img.shields.io/badge/S-havl-000000?style=for-the-badge&logo=archlinux&logoColor=a27ae0&labelColor=000000&color=a27ae0" alt="S-havl hacker badge"/>
 </p>
 
 <p align="center">
@@ -9,15 +9,6 @@
   <img src="https://img.shields.io/badge/Low--Level%20Programming-a27ae0?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terminal%20Focused-a27ae0?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Roblox%20Scripting-a27ae0?style=for-the-badge&logo=Roblox&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/S-havl?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-S--havl-a27ae0?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.notion.so/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0">
-    <img src="https://img.shields.io/badge/Notion-Planning-a27ae0?style=for-the-badge&logo=notion&logoColor=white">
-  </a>
 </p>
 <!-- 👾 Banner End -->
 
@@ -69,6 +60,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
   <img src="https://img.shields.io/badge/Vim-a27ae0?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge"/>
   <img src="https://img.shields.io/badge/Neovim-a27ae0?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim Badge"/>
   <img src="https://img.shields.io/badge/tmux-a27ae0?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux Badge"/>
+  <img src="https://img.shields.io/badge/Hack%20Tools-a27ae0?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite Badge"/>
   <br/>
   <img src="https://img.shields.io/badge/Notion-a27ae0?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
   <img src="https://img.shields.io/badge/Obsidian-a27ae0?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Badge"/>
@@ -116,4 +108,5 @@ One syscall at a time.
 
 I'm not here to stand out.  
 I'm here to **understand** — and leave behind what I’ve learned.
+
 
