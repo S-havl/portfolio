@@ -1,67 +1,119 @@
-## Hi there 👋
+<!-- 👾 Banner Start -->
+<p align="center">
+  <img src="https://img.shields.io/badge/S-havl-000000?style=for-the-badge&logo=Roblox&logoColor=a27ae0&labelColor=000000&color=a27ae0" alt="S-havl hacker badge"/>
+</p>
 
-# 👾 S-havl
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-a27ae0?style=for-the-badge&logo=hackerone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Internals-a27ae0?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Low--Level%20Programming-a27ae0?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal%20Focused-a27ae0?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roblox%20Scripting-a27ae0?style=for-the-badge&logo=Roblox&logoColor=white"/>
+</p>
 
-> Ethical Hacking · Linux Internals · Low-Level Programming · Terminal Focused
+<p align="center">
+  <a href="https://github.com/S-havl?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-S--havl-a27ae0?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.notion.so/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0">
+    <img src="https://img.shields.io/badge/Notion-Planning-a27ae0?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+</p>
+<!-- 👾 Banner End -->
 
 ---
 
-## Planning
-
-https://fancy-argument-fe3.notion.site/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0?source=copy_link
-
-## About Me
+## 🧠 About Me
 
 I'm 16 and self-taught.  
-I'm not interested in flashy tools or modern frameworks. I care about understanding how things work underneath — operating systems, terminals, hardware.
+I’m not here to impress — I’m here to **understand how things work** underneath the surface.
 
-I started with Roblox Studio (Luau), then moved into Linux, C, Python, and system-level programming.
+Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, operating systems, and low-level programming with C, Assembly, and Python.
 
 ---
 
-## How I Learn
+## 🔬 How I Learn
 
-- I break things to understand them.
-- I write down what I try and what fails.
+- I break things to learn how they’re built.
+- I take notes, log my failures and document the fixes.
 - I care more about *how* it works than *what* it does.
-- I don’t rush. I go deep before moving on.
+- I go slow, go deep, and don’t skip fundamentals.
 
 ---
 
-## Focus Areas
+## ⚙️ Focus Areas
 
-| Area                | Tools & Topics                        |
-|---------------------|----------------------------------------|
-| Operating Systems   | Linux, terminals, bootloaders          |
-| Programming         | C, Python, Bash, Assembly (real mode)  |
-| Networking          | TCP/IP, DNS, ports, IPs                |
-| Basic Security      | Red Team, hashes, recon                |
-| Automation          | Scripts, CLI tools                     |
-| Version Control     | Git, GitHub                            |
-
----
-
-## Key Repositories
-
-- `learning-log`: terminal commands, common problems, and how I fixed them
-- `scripts`: small Bash and Python tools I made while practicing
-- `notes-security`: security concepts and tools I’ve tested
+| Area                | Tools & Topics                          |
+|---------------------|------------------------------------------|
+| Operating Systems   | Linux, bootloaders, terminals             |
+| Low-Level Programming | C, Assembly (x86 real mode)             |
+| Shell & Scripting   | Bash, Zsh, CLI tools                     |
+| Networking          | TCP/IP, DNS, ports, sockets              |
+| Security / Hacking  | Red Team, recon, hashing, enumeration    |
+| Editors & Workflow  | Vim, Neovim, vi, tmux                    |
+| Automation          | Shell scripts, Python tools              |
+| Notes & Planning    | Notion, Obsidian                         |
+| Version Control     | Git, GitHub                              |
 
 ---
 
-## Long-Term Goal
+## 🧰 Full Stack
 
-Right now I’m focused on learning and practicing every day.  
-But I have bigger plans — starting with:
-
-**Building my own operating system from scratch** — beginning with a terminal, then a shell, then the kernel itself.
-
-I'm taking it one piece at a time. No shortcuts.
+<p align="center">
+  <img src="https://img.shields.io/badge/C-a27ae0?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/Python-a27ae0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Assembly-a27ae0?style=for-the-badge&logoColor=white" alt="Assembly Badge"/>
+  <img src="https://img.shields.io/badge/Bash-a27ae0?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-a27ae0?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/Vim-a27ae0?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge"/>
+  <img src="https://img.shields.io/badge/Neovim-a27ae0?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim Badge"/>
+  <img src="https://img.shields.io/badge/tmux-a27ae0?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Notion-a27ae0?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+  <img src="https://img.shields.io/badge/Obsidian-a27ae0?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-a27ae0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/Blender-a27ae0?style=for-the-badge&logo=blender&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/Gimp-a27ae0?style=for-the-badge&logo=gimp&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/Krita-a27ae0?style=for-the-badge&logo=krita&logoColor=white" alt="GitHub Badge"/>
+</p>
 
 ---
 
-## Note
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-havl&show_icons=true&hide_border=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-havl&layout=compact&hide_border=true&theme=radical" width="45%"/>
+</p>
+
+---
+
+## 📁 Key Repositories
+
+- [`learning-log`](https://github.com/S-havl/learning-log): terminal commands, common problems, and how I fixed them.
+- [`scripts`](https://github.com/S-havl/scripts): small Bash and Python tools I made while practicing.
+- [`notes-security`](https://github.com/S-havl/notes-security): security concepts and tools I’ve tested.
+
+---
+
+## 🧭 Planning Workspace
+
+- 📌 [Notion Projects](https://www.notion.so/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0)
+- 🗂 Obsidian vault (private, for now)
+
+---
+
+## 🎯 Long-Term Goal
+
+> **Build my own operating system from scratch.**  
+From terminal → shell → kernel.  
+One syscall at a time.
+
+---
+
+## 🔍 Final Note
 
 I'm not here to stand out.  
-I'm here to understand — and leave behind what I’ve learned.
+I'm here to **understand** — and leave behind what I’ve learned.
 
