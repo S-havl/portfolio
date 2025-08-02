@@ -98,9 +98,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ## 🎯 Long-Term Goal
 
-> **Build my own operating system from scratch.**  
-From terminal → shell → kernel.  
-One syscall at a time.
+> **My long-term goal is to master low-level systems by building an OS from scratch — including bootloader, kernel, and shell — to deeply understand how software interacts with hardware.**  
 
 ---
 
