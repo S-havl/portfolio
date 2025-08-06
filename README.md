@@ -83,8 +83,8 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ## 📁 Key Repositories
 
-- [`learning-log`](https://github.com/S-havl/learning-log): terminal commands, common problems, and how I fixed them.
-- [`scripts`](https://github.com/S-havl/scripts): small Bash and Python tools I made while practicing.
+- [`S-havlOS`](https://github.com/S-havl/s-havlos): My own OS from scratch.
+- [`S-havlShell`](https://github.com/S-havl/shavlshell): My own shell from scratch for user and for my own OS (manual).
 - [`notes-security`](https://github.com/S-havl/notes-security): security concepts and tools I’ve tested.
 
 ---
