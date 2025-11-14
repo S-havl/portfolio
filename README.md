@@ -16,7 +16,6 @@
 
 ## 🧠 About Me
 
-I'm 16 and self-taught.  
 I’m not here to impress — I’m here to **understand how things work** underneath the surface.
 
 Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, operating systems, and low-level programming with C, Assembly, and Python.
