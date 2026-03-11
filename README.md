@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m not here to impress — I’m here to **understand how things work** underneath the surface.
 
@@ -22,7 +22,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ---
 
-## 🔬 How I Learn
+##  How I Learn
 
 - I break things to learn how they’re built.
 - I take notes, log my failures and document the fixes.
@@ -31,7 +31,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ---
 
-## ⚙️ Focus Areas
+##  Focus Areas
 
 | Area                | Tools & Topics                          |
 |---------------------|------------------------------------------|
@@ -47,7 +47,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ---
 
-## 🧰 Full Stack
+##  Full Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-a27ae0?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
@@ -71,7 +71,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-havl&show_icons=true&hide_border=true&theme=radical" width="45%"/>
@@ -80,7 +80,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ---
 
-## 📁 Key Repositories
+##  Key Repositories
 
 - [`S-havlOS`](https://github.com/S-havl/s-havlos): My own OS from scratch.
 - [`S-havlShell`](https://github.com/S-havl/s-havlshell): My own shell from scratch for user and for my own OS (manual).
@@ -88,20 +88,20 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 
 ---
 
-## 🧭 Planning Workspace
+##  Planning Workspace
 
-- 📌 [Notion Projects](https://www.notion.so/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0)
-- 🗂 Obsidian vault (private, for now)
+-  [Notion Projects](https://www.notion.so/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0)
+-  Obsidian vault (private, for now)
 
 ---
 
-## 🎯 Long-Term Goal
+##  Long-Term Goal
 
 > **My long-term goal is to master low-level systems by building an OS from scratch — including bootloader, kernel, and shell — to deeply understand how software interacts with hardware.**  
 
 ---
 
-## 🔍 Final Note
+##  Final Note
 
 I'm not here to stand out.  
 I'm here to **understand** — and leave behind what I’ve learned.
