@@ -83,7 +83,7 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 ##  Key Repositories
 
 - [`S-havlOS`](https://github.com/S-havl/s-havlos): My own OS from scratch.
-- [`Learning-log`](https://github.com/S-havl/learning-log): My story, all the mistakes I made, everything I learned from them.
+- [`JavaSystem`](https://github.com/S-havl/JavaSystem): My distributed system built from scratch in Java.
 
 ---
 
