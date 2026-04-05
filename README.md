@@ -83,14 +83,12 @@ Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, oper
 ##  Key Repositories
 
 - [`S-havlOS`](https://github.com/S-havl/s-havlos): My own OS from scratch.
-- [`S-havlShell`](https://github.com/S-havl/s-havlshell): My own shell from scratch for user and for my own OS (manual).
 - [`Learning-log`](https://github.com/S-havl/learning-log): My story, all the mistakes I made, everything I learned from them.
 
 ---
 
 ##  Planning Workspace
 
--  [Notion Projects](https://www.notion.so/Projects-Tasks-233067976aef80ff9373c48b86a7e9d0)
 -  Obsidian vault (private, for now)
 
 ---
