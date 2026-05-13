@@ -1,107 +1,187 @@
-<!-- 👾 Banner Start -->
+<!-- ========================================= -->
+<!--                S - H A V L               -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/S-havl-000000?style=for-the-badge&logo=archlinux&logoColor=a27ae0&labelColor=000000&color=a27ae0" alt="S-havl hacker badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=S-havl&fontAlign=50&fontAlignY=40&color=0:0d0d0d,100:a27ae0&fontColor=ffffff&desc=low-level%20systems%20%E2%80%A2%20kernel%20engineering%20%E2%80%A2%20security%20research&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-a27ae0?style=for-the-badge&logo=hackerone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux%20Internals-a27ae0?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Low--Level%20Programming-a27ae0?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal%20Focused-a27ae0?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox%20Scripting-a27ae0?style=for-the-badge&logo=Roblox&logoColor=white"/>
-</p>
-<!-- 👾 Banner End -->
-
----
-
-##  About Me
-
-I’m not here to impress — I’m here to **understand how things work** underneath the surface.
-
-Started with Roblox Studio (Luau). Now I go deep into Linux, hacking tools, operating systems, and low-level programming with C, Assembly, and Python.
-
----
-
-##  How I Learn
-
-- I break things to learn how they’re built.
-- I take notes, log my failures and document the fixes.
-- I care more about *how* it works than *what* it does.
-- I go slow, go deep, and don’t skip fundamentals.
-
----
-
-##  Focus Areas
-
-| Area                | Tools & Topics                          |
-|---------------------|------------------------------------------|
-| Operating Systems   | Linux, bootloaders, terminals             |
-| Low-Level Programming | C, Assembly (x86 real mode)             |
-| Shell & Scripting   | Bash, Zsh, CLI tools                     |
-| Networking          | TCP/IP, DNS, ports, sockets              |
-| Security / Hacking  | Red Team, recon, hashing, enumeration    |
-| Editors & Workflow  | Vim, Neovim, vi, tmux                    |
-| Automation          | Shell scripts, Python tools              |
-| Notes & Planning    | Notion, Obsidian                         |
-| Version Control     | Git, GitHub                              |
-
----
-
-##  Full Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-a27ae0?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  <img src="https://img.shields.io/badge/Python-a27ae0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Assembly-a27ae0?style=for-the-badge&logoColor=white" alt="Assembly Badge"/>
-  <img src="https://img.shields.io/badge/Bash-a27ae0?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-a27ae0?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
-  <img src="https://img.shields.io/badge/Vim-a27ae0?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge"/>
-  <img src="https://img.shields.io/badge/Neovim-a27ae0?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim Badge"/>
-  <img src="https://img.shields.io/badge/tmux-a27ae0?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux Badge"/>
-  <img src="https://img.shields.io/badge/Hack%20Tools-a27ae0?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Notion-a27ae0?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
-  <img src="https://img.shields.io/badge/Obsidian-a27ae0?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-a27ae0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Blender-a27ae0?style=for-the-badge&logo=blender&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Gimp-a27ae0?style=for-the-badge&logo=gimp&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Krita-a27ae0?style=for-the-badge&logo=krita&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A27AE0&center=true&vCenter=true&width=700&lines=building+systems+from+bare+metal;kernel+development+%E2%80%A2+x86+internals+%E2%80%A2+osdev;linux+internals+%E2%80%A2+security+research;reverse+engineering+%E2%80%A2+toolchain+engineering"/>
 </p>
 
 ---
 
-##  GitHub Stats
+```console
+root@github:~$ whoami
+
+S-havl
+────────
+Low-level systems developer focused on:
+• operating systems
+• kernel architecture
+• Linux internals
+• x86 assembly
+• reverse engineering
+• security research
+
+I started with Luau scripting and evolved into
+bare-metal systems, memory management and OSDev.
+```
+
+---
+
+# architecture
+
+```text
+                     ┌────────────────────┐
+                     │      userland      │
+                     └─────────┬──────────┘
+                               │
+                     ┌─────────▼──────────┐
+                     │    syscall layer    │
+                     └─────────┬──────────┘
+                               │
+                ┌──────────────┴──────────────┐
+                │                             │
+      ┌─────────▼─────────┐       ┌──────────▼──────────┐
+      │ memory management │       │ process scheduler   │
+      └─────────┬─────────┘       └──────────┬──────────┘
+                │                             │
+                └──────────────┬──────────────┘
+                               │
+                     ┌─────────▼──────────┐
+                     │     x86 kernel      │
+                     └─────────┬──────────┘
+                               │
+                     ┌─────────▼──────────┐
+                     │      hardware       │
+                     └─────────────────────┘
+```
+
+---
+
+# flagship project
+
+## S-havlOS
+
+> Experimental operating system focused on understanding  
+> how software interacts with hardware at the lowest level.
+
+### current research areas
+
+```text
+[ kernel ]
+ ├─ boot sequence
+ ├─ x86 real/protected mode
+ ├─ interrupt handling
+ ├─ memory paging
+ ├─ physical allocators
+ ├─ ELF loading
+ ├─ syscall interfaces
+ ├─ scheduler design
+ └─ userspace architecture
+```
+
+---
+
+# evolution
+
+```text
+2019  → Roblox Studio / Luau scripting
+2020  → Python automation & tooling
+2021  → Linux & shell environments
+2022  → Networking fundamentals & security
+2023  → Bash, Vim, tmux & CLI workflows
+2024  → C programming & low-level concepts
+2025  → x86 Assembly & OSDev
+2026  → Kernel architecture & systems research
+```
+
+---
+
+# systems stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-havl&show_icons=true&hide_border=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-havl&layout=compact&hide_border=true&theme=radical" width="45%"/>
+
+<img src="https://skillicons.dev/icons?i=c,python,bash,linux,vim,neovim,git,github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/x86_Assembly-0d0d0d?style=for-the-badge&logoColor=a27ae0&color=a27ae0"/>
+<img src="https://img.shields.io/badge/Kernel_Development-0d0d0d?style=for-the-badge&logo=linux&logoColor=white&color=a27ae0"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-0d0d0d?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&color=a27ae0"/>
+<img src="https://img.shields.io/badge/Linux_Internals-0d0d0d?style=for-the-badge&logo=linux&logoColor=white&color=a27ae0"/>
+<img src="https://img.shields.io/badge/OSDev-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=white&color=a27ae0"/>
+<img src="https://img.shields.io/badge/Terminal_Workflow-0d0d0d?style=for-the-badge&logo=tmux&logoColor=white&color=a27ae0"/>
+
 </p>
 
 ---
 
-##  Key Repositories
+# selected repositories
 
-- [`S-havlOS`](https://github.com/S-havl/s-havlos): My own OS from scratch.
-- [`JavaSystem`](https://github.com/S-havl/JavaSystem): My distributed system built from scratch in Java.
-
----
-
-##  Planning Workspace
-
--  Obsidian vault (private, for now)
+```text
+S-havlOS      → custom operating system from scratch
+JavaSystem    → distributed systems experiments in Java
+```
 
 ---
 
-##  Long-Term Goal
+# development philosophy
 
-> **My long-term goal is to master low-level systems by building an OS from scratch — including bootloader, kernel, and shell — to deeply understand how software interacts with hardware.**  
+```console
+> break things
+> inspect internals
+> understand abstractions
+> document everything
+> master fundamentals
+```
 
 ---
 
-##  Final Note
+# github analytics
 
-I'm not here to stand out.  
-I'm here to **understand** — and leave behind what I’ve learned.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=S-havl&show_icons=true&hide_border=true&bg_color=00000000&title_color=a27ae0&text_color=ffffff&icon_color=a27ae0"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-havl&layout=compact&hide_border=true&bg_color=00000000&title_color=a27ae0&text_color=ffffff"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-havl&bg_color=000000&color=a27ae0&line=a27ae0&point=ffffff&hide_border=true"/>
+</p>
 
+---
+
+# environment
+
+```text
+OS          → Arch Linux
+Shell       → Bash / Zsh
+Editor      → Vim / Neovim
+Terminal    → tmux
+WM          → Hyprland
+Workflow    → keyboard-driven
+Notes       → Obsidian
+```
+
+---
+
+# long-term objective
+
+> Build a complete operating system from scratch while gaining  
+> a deep understanding of memory, execution, hardware interaction,  
+> operating system architecture and low-level computing.
+
+---
+
+<p align="center">
+
+```text
+"software becomes interesting when you stop hiding the machine"
+```
+
+</p>
