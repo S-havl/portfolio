@@ -59,6 +59,10 @@ bare-metal systems, memory management and OSDev.
                      └─────────────────────┘
 ```
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:a27ae0&height=2&section=footer"/>
+</p>
+
 ---
 
 # flagship project
@@ -158,6 +162,10 @@ JavaSystem    → distributed systems experiments in Java
 
 ---
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:a27ae0&height=2&section=footer"/>
+</p>
+
 # system telemetry
 ```console
 tracking commits, experiments and system research
@@ -189,6 +197,10 @@ Notes       → Obsidian
 > operating system architecture and low-level computing.
 
 ---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:a27ae0&height=2&section=footer"/>
+</p>
 
 <p align="center">
 
