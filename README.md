@@ -123,6 +123,20 @@ bare-metal systems, memory management and OSDev.
 
 ---
 
+# research interests
+
+```text
+[ systems ]
+ ├─ operating systems
+ ├─ x86 architecture
+ ├─ reverse engineering
+ ├─ exploit development
+ ├─ Linux internals
+ ├─ networking
+ ├─ memory allocators
+ └─ distributed systems
+```
+
 # selected repositories
 
 ```text
