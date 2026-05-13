@@ -64,7 +64,9 @@ bare-metal systems, memory management and OSDev.
 # flagship project
 
 ## S-havlOS
-
+<p align="center">
+  <img src="https://github.com/S-havl/s-havlos/raw/main/images/s-havlos_test.png" width="900"/>
+</p>
 > Experimental operating system focused on understanding  
 > how software interacts with hardware at the lowest level.
 
