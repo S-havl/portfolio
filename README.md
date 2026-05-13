@@ -142,14 +142,10 @@ JavaSystem    → distributed systems experiments in Java
 
 ---
 
-# github analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=S-havl&show_icons=true&hide_border=true&bg_color=00000000&title_color=a27ae0&text_color=ffffff&icon_color=a27ae0"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-havl&layout=compact&hide_border=true&bg_color=00000000&title_color=a27ae0&text_color=ffffff"/>
-</p>
-
+# system telemetry
+```console
+tracking commits, experiments and system research
+```
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-havl&bg_color=000000&color=a27ae0&line=a27ae0&point=ffffff&hide_border=true"/>
 </p>
