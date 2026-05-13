@@ -69,7 +69,7 @@ bare-metal systems, memory management and OSDev.
 
 ## S-havlOS
 <p align="center">
-  <img src="https://github.com/S-havl/s-havlos/raw/main/images/s-havlos_test.png" width="900"/>
+  <img src="https://github.com/S-havl/s-havlos/raw/main/images/s-havlos_test.png" width="850"/>
 </p>
 > Experimental operating system focused on understanding  
 > how software interacts with hardware at the lowest level.
@@ -140,6 +140,8 @@ bare-metal systems, memory management and OSDev.
  ├─ memory allocators
  └─ distributed systems
 ```
+
+---
 
 # selected repositories
 
