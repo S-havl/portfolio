@@ -181,7 +181,7 @@ tracking commits, experiments and system research
 # environment
 
 ```text
-OS          → Arch Linux
+OS          → Arch Linux / Debian Linux
 Shell       → Bash / Zsh
 Editor      → Vim / Neovim
 Terminal    → tmux
