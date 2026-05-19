@@ -110,7 +110,7 @@ bare-metal systems, memory management and OSDev.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,bash,linux,vim,neovim,git,github"/>
+<img src="https://skillicons.dev/icons?i=c,c++,java,python,bash,linux,vim,tmux,neovim,git,github"/>
 
 </p>
 
