@@ -144,9 +144,10 @@ bare-metal systems, memory management and OSDev.
 ---
 
 # selected repositories
-
+[STRIX](https://github.com/S-havl/strix)
+[UMBRA](https://github.com/S-havl/umbra)
 ```text
-[STRIX](https://github.com/S-havl/strix)      → Operating system from scratch by me
+STRIX    → Operating system from scratch by me
 UMBRA    → Game engine from scratch by me
 ```
 
