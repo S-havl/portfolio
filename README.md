@@ -146,8 +146,8 @@ bare-metal systems, memory management and OSDev.
 # selected repositories
 
 ```text
-STRIX      → custom operating system from scratch
-JavaSystem    → distributed systems experiments in Java
+[STRIX](https://github.com/S-havl/strix)      → Operating system from scratch by me
+UMBRA    → Game engine from scratch by me
 ```
 
 ---
