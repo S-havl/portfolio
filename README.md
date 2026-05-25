@@ -186,7 +186,7 @@ OS          → Arch Linux / Debian Linux
 Shell       → Bash / Zsh
 Editor      → Vim / Neovim
 Terminal    → tmux
-WM          → Hyprland
+WM          → I3
 Workflow    → keyboard-driven
 Notes       → Obsidian
 ```
