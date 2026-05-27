@@ -69,7 +69,7 @@ bare-metal systems, memory management and OSDev.
 
 ## STRIX
 <p align="center">
-  <img src="https://github.com/S-havl/s-havlos/raw/main/images/strix_test.png" width="850"/>
+  <img src="https://github.com/S-havl/s-havlos/raw/main/images/idt_test.png" width="850"/>
 </p>
 > Experimental operating system focused on understanding  
 > how software interacts with hardware at the lowest level.
