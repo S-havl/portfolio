@@ -2,9 +2,7 @@
 <!--                S - H A V L               -->
 <!-- ========================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=S-havl&fontAlign=50&fontAlignY=40&color=0:0d0d0d,100:a27ae0&fontColor=ffffff&desc=low-level%20systems%20%E2%80%A2%20kernel%20engineering%20%E2%80%A2%20security%20research&descAlignY=60&animation=fadeIn"/>
-</p>
+<h1 align="center">shavl</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A27AE0&center=true&vCenter=true&width=700&lines=building+systems+from+bare+metal;kernel+development+%E2%80%A2+x86+internals+%E2%80%A2+osdev;linux+internals+%E2%80%A2+security+research;reverse+engineering+%E2%80%A2+toolchain+engineering"/>
