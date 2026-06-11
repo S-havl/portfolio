@@ -7,19 +7,4 @@ I started with Luau scripting and evolved into
 bare-metal systems, memory management and OSDev.
 ```
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,linux,vim,neovim,git,github,arch,debian,kali,notion,obsidian"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/x86_Assembly-0d0d0d?style=for-the-badge&logoColor=a27ae0&color=a27ae0"/>
-<img src="https://img.shields.io/badge/Kernel_Development-0d0d0d?style=for-the-badge&logo=linux&logoColor=white&color=a27ae0"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-0d0d0d?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&color=a27ae0"/>
-<img src="https://img.shields.io/badge/Linux_Internals-0d0d0d?style=for-the-badge&logo=linux&logoColor=white&color=a27ae0"/>
-<img src="https://img.shields.io/badge/OSDev-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=white&color=a27ae0"/>
-<img src="https://img.shields.io/badge/Terminal_Workflow-0d0d0d?style=for-the-badge&logo=tmux&logoColor=white&color=a27ae0"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,linux,vim,git,github"/>
