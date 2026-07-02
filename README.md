@@ -7,4 +7,4 @@ I started with Luau scripting and evolved into
 bare-metal systems, memory management and OSDev.
 ```
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,asm,luau,linux,vim,git,github"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,assembly,robloxstudio,linux,vim,git,github"/>
