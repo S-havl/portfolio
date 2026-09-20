@@ -81,3 +81,43 @@ pre, code {
   color: #d8b4fe !important;
   font-family: monospace !important;
 }
+
+header h1 a {
+  visibility: hidden !important;
+  position: relative;
+}
+header h1 a::after {
+  content: "S-havl" !important;
+  visibility: visible !important;
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #a855f7 !important;
+}
+
+.wrapper ul li::before,
+#main_content ul li::before,
+header ul li::before,
+ul li::before,
+ul li:before {
+  content: none !important;
+  display: none !important;
+}
+
+.wrapper ul {
+  list-style-type: none !important;
+  padding-left: 0 !important;
+}
+.wrapper ul li {
+  position: relative !important;
+  padding-left: 1.2rem !important;
+  margin-bottom: 0.4rem !important;
+}
+.wrapper ul li::after {
+  content: "•" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  color: #a855f7 !important;
+  font-weight: bold !important;
+}
