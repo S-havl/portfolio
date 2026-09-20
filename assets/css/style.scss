@@ -3,8 +3,13 @@
 @import "{{ site.theme }}";
 
 body, .wrapper {
-  background-color: #000000 !important;
+  background-color: #0a0a0a !important; 
   color: #e2e8f0 !important;
+}
+
+header {
+  background: #000000 !important;
+  border-bottom: 1px dashed #7e22ce !important;
 }
 
 h1, h2, h3, h4, h5, h6, strong, b {
@@ -20,12 +25,13 @@ a:hover {
   text-decoration: underline;
 }
 
-header, footer, hr {
+hr {
   border-color: #7e22ce !important;
+  background: transparent !important;
 }
 
 pre, code {
-  background-color: #0a0a0a !important;
+  background-color: #050505 !important;
   border: 1px solid #3b0764 !important;
   color: #d8b4fe !important;
 }
