@@ -1,0 +1,31 @@
+---
+---
+@import "{{ site.theme }}";
+
+body, .wrapper {
+  background-color: #000000 !important;
+  color: #e2e8f0 !important;
+}
+
+h1, h2, h3, h4, h5, h6, strong, b {
+  color: #a855f7 !important;
+}
+
+a {
+  color: #c084fc !important;
+  text-decoration: none;
+}
+a:hover {
+  color: #d8b4fe !important;
+  text-decoration: underline;
+}
+
+header, footer, hr {
+  border-color: #7e22ce !important;
+}
+
+pre, code {
+  background-color: #0a0a0a !important;
+  border: 1px solid #3b0764 !important;
+  color: #d8b4fe !important;
+}
