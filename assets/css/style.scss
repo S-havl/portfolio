@@ -3,12 +3,14 @@
 @import "{{ site.theme }}";
 
 body, .wrapper {
-  background-color: #0a0a0a !important; 
+  background-image: none !important;
+  background-color: #0f0f0f !important; 
   color: #e2e8f0 !important;
 }
 
 header {
-  background: #000000 !important;
+  background-image: none !important;
+  background-color: #000000 !important; 
   border-bottom: 1px dashed #7e22ce !important;
 }
 
@@ -31,6 +33,7 @@ hr {
 }
 
 pre, code {
+  background-image: none !important;
   background-color: #050505 !important;
   border: 1px solid #3b0764 !important;
   color: #d8b4fe !important;
