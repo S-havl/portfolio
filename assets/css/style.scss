@@ -38,3 +38,12 @@ pre, code {
   border: 1px solid #3b0764 !important;
   color: #d8b4fe !important;
 }
+
+ul li::before {
+  color: #6b21a8 !important;
+}
+
+p, li {
+  font-size: 1.05rem !important;
+  line-height: 1.6 !important;
+}
