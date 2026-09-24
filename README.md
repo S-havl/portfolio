@@ -4,7 +4,6 @@
 <br>
 <div class="contact-links">
   <a href="https://github.com/S-havl">GitHub</a>
-  <a href="mailto:nothing@email.com">Email</a>
 </div>
 
 ## Executive Summary
@@ -14,7 +13,7 @@ I started out scripting game mechanics in Lua and evolved into low-level systems
 
 <div class="project-card">
   <h3><a href="https://github.com/tu-usuario/strix">Strix OS</a></h3>
-  <p>A custom 64-bit operating system kernel written from scratch in C and x86_64 Assembly.</p>
+  <p>A modular monolithic x86_64 operating system kernel written from scratch in C and x86_64 Assembly.</p>
   <ul>
     <li><b>Architecture:</b> Bare-metal initialization and custom bootloader design.</li>
     <li><b>Implementation:</b> Memory map retrieval via BIOS interrupts (e820) and VBE graphics mode configuration.</li>
@@ -34,7 +33,7 @@ I started out scripting game mechanics in Lua and evolved into low-level systems
 ## Technical Arsenal
 
 * **Low-Level & Systems:** C, x86_64 Assembly, OS Architecture, Memory Management.
-* **Scripting & OOP:** Java, Python, Bash, Lua.
+* **Scripting & OOP:** Java, Python, Bash, Luau.
 * **Security & Tools:** Ghidra (Reverse Engineering), Docker, Makefiles, Git.
 * **Environment:** Arch Linux, Hyprland, CLI-first workflows.
 
