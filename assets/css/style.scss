@@ -3,116 +3,20 @@
 @import "{{ site.theme }}";
 
 body {
-  background: #0a0a0a; 
-  color: #e2e8f0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, sans-serif; 
+  background-color: #0d1117 !important;
+  color: #c9d1d9 !important;
 }
-
-.wrapper {
-  max-width: 850px;
-  margin: 0 auto;
-  padding: 2rem;
+.main-content {
+  color: #c9d1d9 !important;
 }
-
-header {
-  border-bottom: none;
-  
-  h1 a {
-    color: #a855f7;
-    text-decoration: none;
-  }
-  
-  p.view {
-    color: #94a3b8;
-  }
+h1, h2, h3, h4, h5, h6 {
+  color: #58a6ff !important;
 }
-
-h1, h2, h3, h4 {
-  color: #a855f7;
-  font-weight: 600;
-}
-
-h2 {
-  font-size: 1.5rem;
-  border-bottom: 1px solid #222222;
-  padding-bottom: 0.5rem;
-  margin-top: 2.5rem;
-}
-
 a {
-  color: #c084fc;
-  text-decoration: none;
-  &:hover {
-    color: #e9d5ff;
-    text-decoration: underline;
-  }
+  color: #2f81f7 !important;
+}
+code {
+  background-color: #161b22 !important;
+  color: #ff7b72 !important;
 }
 
-.contact-links a {
-  display: inline-block;
-  border: 1px solid #7e22ce;
-  padding: 0.3rem 1rem;
-  border-radius: 4px;
-  margin-right: 0.8rem;
-  margin-bottom: 0.5rem;
-  background-color: #111;
-  color: #c084fc;
-  text-decoration: none;
-  
-  &:hover {
-    background-color: #3b0764;
-    color: #ffffff;
-    text-decoration: none;
-  }
-}
-
-.project-card {
-  background-color: #111111;
-  border: 1px solid #222;
-  border-left: 4px solid #a855f7;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  border-radius: 4px;
-
-  p {
-    margin-top: 0.2rem;
-    color: #cbd5e1 !important;
-    font-style: italic;
-  }
-}
-
-ul {
-  list-style: none;
-  padding-left: 0;
-  color: #e2e8f0 !important;
-  
-  li {
-    color: #e2e8f0 !important;
-    
-    &::before {
-      content: "• ";
-      color: #a855f7;
-      font-weight: bold;
-      margin-right: 8px;
-    }
-  }
-}
-
-small, .muted, p code {
-  color: #94a3b8 !important;
-}
-
-pre, code {
-  background-color: #050505;
-  border: 1px solid #3b0764;
-  color: #d8b4fe;
-  font-family: monospace;
-  padding: 0.2rem 0.4rem;
-  border-radius: 3px;
-}
-
-pre code {
-  padding: 0;
-  border: none;
-  color: #d8b4fe !important;
-}
