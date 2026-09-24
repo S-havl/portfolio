@@ -76,7 +76,7 @@ a {
 
   p {
     margin-top: 0.2rem;
-    color: #94a3b8;
+    color: #cbd5e1 !important;
     font-style: italic;
   }
 }
@@ -84,13 +84,22 @@ a {
 ul {
   list-style: none;
   padding-left: 0;
+  color: #e2e8f0 !important;
   
-  li::before {
-    content: "• ";
-    color: #a855f7;
-    font-weight: bold;
-    margin-right: 8px;
+  li {
+    color: #e2e8f0 !important;
+    
+    &::before {
+      content: "• ";
+      color: #a855f7;
+      font-weight: bold;
+      margin-right: 8px;
+    }
   }
+}
+
+small, .muted, p code {
+  color: #94a3b8 !important;
 }
 
 pre, code {
@@ -105,5 +114,5 @@ pre, code {
 pre code {
   padding: 0;
   border: none;
+  color: #d8b4fe !important;
 }
-
