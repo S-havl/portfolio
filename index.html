@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S-havl | Portfolio</title>
+    <style>
+        body {
+            background-color: #0a0a0a;
+            color: #e2e8f0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace;
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem;
+            line-height: 1.6;
+        }
+
+        header {
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            color: #a855f7;
+            font-size: 2rem;
+            margin: 0 0 0.5rem 0;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            color: #94a3b8;
+            font-size: 1.1rem;
+            margin: 0 0 0.25rem 0;
+        }
+
+        .motto {
+            color: #64748b;
+            font-size: 0.95rem;
+            font-style: italic;
+            margin: 0;
+        }
+
+        h2 {
+            color: #a855f7;
+            font-size: 1.4rem;
+            border-bottom: 1px solid #222;
+            padding-bottom: 0.3rem;
+            margin-top: 2.5rem;
+        }
+
+        a {
+            color: #c084fc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .contact-links {
+            margin-top: 1.25rem;
+        }
+        .contact-links a {
+            display: inline-block;
+            border: 1px solid #7e22ce;
+            padding: 0.4rem 1rem;
+            border-radius: 4px;
+            margin-right: 0.5rem;
+            background-color: #111;
+            color: #c084fc;
+            font-size: 0.9rem;
+        }
+        .contact-links a:hover {
+            background-color: #3b0764;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 0.6rem;
+            color: #e2e8f0;
+        }
+        ul li::before {
+            content: "• ";
+            color: #a855f7;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        .project-card {
+            background-color: #111;
+            border: 1px solid #222;
+            border-left: 4px solid #a855f7;
+            padding: 1.25rem;
+            margin-bottom: 1.25rem;
+            border-radius: 4px;
+        }
+        .project-card h3 {
+            margin: 0 0 0.25rem 0;
+            font-size: 1.1rem;
+        }
+        .project-card p {
+            margin: 0;
+            color: #94a3b8;
+            font-style: italic;
+            font-size: 0.95rem;
+        }
+
+        code {
+            background-color: #161b22;
+            color: #d8b4fe;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>S-havl</h1>
+        <p class="subtitle">Systems & Kernel Developer</p>
+        <p class="motto">"Control everything you run"</p>
+        <div class="contact-links">
+            <a href="https://github.com">GitHub</a>
+            <a href="mailto:myemail@email.com">Contact</a>
+        </div>
+    </header>
+
+    <main>
+        <h2>About Me</h2>
+        <ul>
+            <li>Building systems from bare metal</li>
+            <li>Kernel Development & <code>x86_64</code> Internals</li>
+            <li>Focused on performance and low-level engineering.</li>
+        </ul>
+
+        <h2>Projects</h2>
+        
+        <div class="project-card">
+            <h3><a href="#">MiKernelOS</a></h3>
+            <p>A monolithic kernel project written in C and Assembly for x86_64 architecture.</p>
+        </div>
+
+        <div class="project-card">
+            <h3><a href="#">BareMetal-Tools</a></h3>
+            <p>Custom utilities for testing operating systems in virtual environments.</p>
+        </div>
+    </main>
+
+</body>
+</html>
+
